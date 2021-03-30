@@ -1,0 +1,13 @@
+#todotable {
+    margin:auto;
+    width: 75%;
+}
+
+body { 
+    padding-top:50px; 
+}
+
+table,tr,th,td {
+    text-align: center;
+    border: 3px solid green;
+}
